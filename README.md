@@ -1,5 +1,13 @@
 # 📈 AI ROI Calculator
 
+
+![GitHub stars](https://img.shields.io/github/stars/Turtles-AI-Lab/ai-roi-calculator?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Turtles-AI-Lab/ai-roi-calculator?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Turtles-AI-Lab/ai-roi-calculator)
+![GitHub license](https://img.shields.io/github/license/Turtles-AI-Lab/ai-roi-calculator)
+![GitHub last commit](https://img.shields.io/github/last-commit/Turtles-AI-Lab/ai-roi-calculator)
+
+
 Calculate return on investment for AI automation projects.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
